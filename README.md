@@ -49,36 +49,18 @@
 [![文创开发](https://img.shields.io/badge/法务流通处-符箓|法器|饰品-1e88e5?style=flat-square--0097a7?style=flat-square)]()
 
 </details>
+<div align="center">
 
-<div align="center" style="padding: 30px 0 60px; position: relative; z-index: 2;">
-
-[![道脉访问](https://komarev.com/ghpvc/?username=MaxSecurity&label=灵应道院&color=4a148c&style=for-the-badge&labelWidth=200&fontSize=20&labelPad=15&labelColor=2e7d32&textColor=ffffff)](https://github.com/MaxSecurity)
-
-</div>
-
-<div style="position: relative; margin-top: -80px; z-index: 1;">
-
-![道纹波浪](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=footer&width=100%&fontSize=0&reversal=true&animation=fadeIn&animationDuration=4&theme=dark)
+<!-- 访问计数徽章（修正汉字乱码） -->
+<a href="https://github.com/MaxSecurity">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaxSecurity&count_bg=%237E57C2&title_bg=%232E7D32&icon=octocat&icon_color=%23FFFFFF&title=%E7%81%B5%E5%BA%94%E9%81%93%E9%99%A2&edge_flat=false&show_icon=true" alt="道脉参访">
+</a>
 
 </div>
 
-<style>
-@media screen and (max-width: 768px) {
-  div[align="center"] {
-    padding: 20px 0 40px !important;
-  }
-  img[alt="道脉访问"] {
-    transform: scale(0.85);
-    transform-origin: center;
-  }
-}
-</style>
+<div align="center">
 
-
-<div align="center" style="margin-top: -1.2rem;">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn&width=100%&fontSize=0)
+<!-- 底部波浪装饰 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer 波浪">
 
 </div>
-
-
