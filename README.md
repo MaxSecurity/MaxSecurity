@@ -50,11 +50,30 @@
 
 </details>
 
-<div align="center" style="margin: 1rem 0; line-height: 2.5;">
+<div align="center" style="padding: 30px 0 60px; position: relative; z-index: 2;">
 
-[![Visitors](https://komarev.com/ghpvc/?username=MaxSecurity&label=灵应道院&color=4a148c&style=for-the-badge&labelWidth=150)](https://github.com/MaxSecurity)  
+[![道脉访问](https://komarev.com/ghpvc/?username=MaxSecurity&label=灵应道院&color=4a148c&style=for-the-badge&labelWidth=200&fontSize=20&labelPad=15&labelColor=2e7d32&textColor=ffffff)](https://github.com/MaxSecurity)
 
 </div>
+
+<div style="position: relative; margin-top: -80px; z-index: 1;">
+
+![道纹波浪](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=footer&width=100%&fontSize=0&reversal=true&animation=fadeIn&animationDuration=4&theme=dark)
+
+</div>
+
+<style>
+@media screen and (max-width: 768px) {
+  div[align="center"] {
+    padding: 20px 0 40px !important;
+  }
+  img[alt="道脉访问"] {
+    transform: scale(0.85);
+    transform-origin: center;
+  }
+}
+</style>
+
 
 <div align="center" style="margin-top: -1.2rem;">
 
