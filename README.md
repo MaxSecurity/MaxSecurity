@@ -50,9 +50,16 @@
 
 </details>
 
-<div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=MaxSecurity&label=灵应道院&color=4a148c)](https://github.com/MaxSecurity)  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=64&section=footer&animation=fadeIn)
+<div align="center" style="margin: 1rem 0; line-height: 2.5;">
+
+[![Visitors](https://komarev.com/ghpvc/?username=MaxSecurity&label=灵应道院&color=4a148c&style=for-the-badge&labelWidth=150)](https://github.com/MaxSecurity)  
 
 </div>
+
+<div align="center" style="margin-top: -1.2rem;">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=fadeIn&width=100%&fontSize=0)
+
+</div>
+
+
