@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="法剑分割线">
 </div>
 
-## 🌐 交流矩阵  
+## 🌐 交流  
 
 | 维度                | 内容说明                        |
 |---------------------|-----------------------------|
