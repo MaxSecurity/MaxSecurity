@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 𝕳𝖊𝖑𝖑𝖔 | 太白 
+# 𝕳𝖊𝖑𝖑𝖔 | 𝕿𝖆𝖎 𝕭𝖆𝖎
 #### 网络安全研究员 · 民间法师
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="法剑分割线">
@@ -59,6 +59,13 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaxSecurity&count_bg=%237E57C2&title_bg=%232E7D32&icon=octocat&icon_color=%23FFFFFF&title=%E7%81%B5%E5%BA%94%E9%81%93%E9%99%A2&edge_flat=false&show_icon=true" alt="道脉参访">
 </a>
 
+</div>
+<div align="center">
+  <a href="mailto:maxbaier233@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail" width="20"/>
+    **Email Me →**  
+    `✨ maxbaier233@gmail.com ✨`
+  </a>
 </div>
 
 <div align="center">
