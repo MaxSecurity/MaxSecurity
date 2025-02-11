@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# 𝕭𝖗𝖎𝖆𝖓 𝕷𝖎𝖚 | 太白 
+# 𝕳𝖊𝖑𝖑𝖔 | 太白 
 #### 网络安全研究员 · 民间法师
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="法剑分割线">
