@@ -1,12 +1,15 @@
 # ![Header Image](./TU.jpg)
 
-# 𝔸𝕓𝕠𝕦𝕥 𝕄𝕖  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="法剑分割线">
+  
+# 𝕭𝖗𝖎𝖆𝖓 𝕷𝖎𝖚 | 太白 
+#### 网络安全研究员 · 民间法师
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%" alt="法剑分割线">
+
 </div>
 
-### 🔐 网络安全研究员 
-#### 🌿 民间法脉传承者  
+### 🌿 民间法脉传承者  
 > 闾山派三奶法脉法师 · 六壬伏英馆传教师 · 巴蜀端公文化传承人  
 
 ---
